@@ -20,7 +20,7 @@
 
 1. 开库
 2. 上传petpetbeta版本（仅供学习、参考、以及私人非宣传性使用）
-3. 上传petpet表情包制作代码教程相关
+3. 上传[petpet表情包制作代码教程](https://github.com/nonebot2-political-study-session/about-nonebot2-petpet/tree/learn/nb2PSS)相关
 
 
 
