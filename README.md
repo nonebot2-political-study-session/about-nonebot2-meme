@@ -1,4 +1,4 @@
-![nb)fe](https://user-images.githubusercontent.com/105840558/211478662-7e84e185-ab19-4127-ac12-18bfe9d0a654.jpg)
+<div align=center><img width="320" height="320" src="https://github.com/nonebot2-political-study-session/nb2PSS-Warehouse/blob/main/nb2.jpg"/></div>
 
 
 # about-nonebot2-petpet
