@@ -9,3 +9,5 @@
 [data_source相关](https://github.com/nonebot2-political-study-session/about-nonebot2-petpet/blob/learn/nb2PSS/about_data_source.md)
 
 [function相关](https://github.com/nonebot2-political-study-session/about-nonebot2-petpet/blob/learn/nb2PSS/about_function.md)
+
+上面这俩学会，你就能自己写表情包了
