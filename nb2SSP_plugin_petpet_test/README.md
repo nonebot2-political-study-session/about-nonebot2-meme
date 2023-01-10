@@ -15,6 +15,8 @@
 
 使用方法与petpet本体相同，新增的自表情包会添加在后方
 
+![1991894632-3225845476-E68FFDFF78C8F1E57990BD99A5E92F70](https://user-images.githubusercontent.com/105840558/211486267-181c7753-5bd1-4d7a-90d4-e09ff9c4e78b.jpg)
+
 ### 管理员声明
 
 自学会所使用的任何图片除使用nonebot人员，禁止在任何地方商业使用（不过nb2会商业使用吗……）——[shinianj](https://github.com/shinianj)
