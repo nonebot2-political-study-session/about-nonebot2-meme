@@ -1,3 +1,5 @@
+![nb)fe](https://user-images.githubusercontent.com/105840558/211478662-7e84e185-ab19-4127-ac12-18bfe9d0a654.jpg)
+
 
 # about-nonebot2-petpet
 该系列插件由[nb2野生自学会（nonebot2-political-study-session)](https://github.com/nonebot2-political-study-session)书写和维护
