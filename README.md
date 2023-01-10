@@ -8,6 +8,9 @@
 
 若文档有误，希望有大佬可以进行修正和指点(发送到[issue](https://github.com/nonebot2-political-study-session/about-nonebot2-petpet/issues)(右上角绿色的按钮进行提交))
 
+自学会所使用的图片若产生任何侵权行为请尽快联系，会立刻删除
+
+自学会所使用的任何图片除使用nonebot人员，禁止在任何地方商业使用（不过nb2会商业使用吗……）
 
 ### 更新日志
 
