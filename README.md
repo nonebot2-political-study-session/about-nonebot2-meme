@@ -19,6 +19,7 @@
 **2023/3/12**
 
 1.根据petpet最新更新，使用meme-generator
+2.添加meme-generator有关说明
 
 **2023/1/10**
 
